@@ -1,0 +1,58 @@
+body {
+  background-color: #1C3879;
+  height: 100%;
+  overflow: hidden;
+}
+
+h1 {
+  color: #FBDF07;
+  font-family: 'Courgette', cursive;
+  text-align: center;
+  margin-top: 20%;
+  font-size: 2.5rem;
+}
+
+.logo {
+  height: 30px;
+  margin: 5px;
+  color: #1C3879;
+}
+
+.search-bar {
+  background-color: #1C3879;
+  border-radius: 17px;
+  border: solid;
+  color: #FBDF07;
+  font-size: 1.5rem;
+}
+
+.btn {
+  font-size: 0.5rem;
+  margin-top: 10px;
+}
+
+.help {
+  color: #FBDF07;
+}
+
+.help {
+  font-size: 1.3rem;
+}
+
+.footer {
+  background-color: #FBDF07;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  overflow: hidden;
+}
+
+.footer a {
+  display: inline-block;
+}
+
+.footer p {
+  display: inline-block;
+  margin-right: 20%;
+}
